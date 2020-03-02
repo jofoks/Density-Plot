@@ -17,7 +17,7 @@ This is analysed through a plotted graph executed in Jupyter
 - Pandas Dataframes
 - Tests!
 - Graph/pyplot from matplotlib
-- Get Moleculair Mass of any molecule
+- Get Moleculair Mass of __any__ molecule
 - Compare the density of any molecule
 
 ### USES:
