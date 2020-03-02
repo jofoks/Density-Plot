@@ -1,5 +1,10 @@
 # Mass / Density Plot
 ![](images/plot.png)
+
+```python
+
+print s
+```
 ### ABOUT:
 This is a quick project to analyse the relation between the weight of molecules and their density.
 This is analysed through a plotted graph executed in Jupyter
