@@ -1,9 +1,11 @@
 # Mass / Density Plot
 ![](images/plot.png)
 
+## Molecular Mass Calculator
 ```python
-
-print s
+Caffeine = 'C8H10N4O2'
+getMolecularMass(Caffeine)
+> 194.18
 ```
 ### ABOUT:
 This is a quick project to analyse the relation between the weight of molecules and their density.
@@ -13,6 +15,7 @@ This is analysed through a plotted graph executed in Jupyter
 - Python 3
 - Jupyter
 - Pandas Dataframes
+- Tests!
 - Graph/pyplot from matplotlib
 - Get Moleculair Mass of any molecule
 - Compare the density of any molecule
